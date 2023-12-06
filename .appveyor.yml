@@ -9,7 +9,8 @@ branches:
 build: off  # будем использовать свой скрипт сборки
 
 install:
-  - java -jar ./rest/rest/artifacts/app-mbank.jar &
+  # запускаем SUT (& означает, что в фоновом режиме не блокируем терминал для запуска тестов)
+  - java -jar ./artifacts/app-mbank.jar &
   - chmod +x gradlew
 
 build_script:
