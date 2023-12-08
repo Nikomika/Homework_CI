@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qwo2s4rnqg28e5s9?svg=true)](https://ci.appveyor.com/project/Nikomika/homework-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/9k7ko7y53yteft07?svg=true)](https://ci.appveyor.com/project/Nikomika/homework-ci-tajck)
